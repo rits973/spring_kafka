@@ -3,7 +3,7 @@ package com.rits;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * Created by thrymr on 7/3/17.
+ * Created by ritesh on 7/3/17.
  */
 //@RestController
 //@RequestMapping("/kafka")
